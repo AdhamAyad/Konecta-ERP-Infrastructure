@@ -292,7 +292,3 @@ Follow this workflow for contributions:
 5. Create a pull request for code review and validation
 6. Deploy validated changes to staging environment for integration testing
 7. Merge to main branch upon approval for production deployment
-
-## License
-
-Copyright © 2024 Konecta ERP. All rights reserved.
